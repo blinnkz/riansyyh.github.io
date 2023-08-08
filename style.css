@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: #f1f2f3;
+  background-color:#29344d;
 }
 
 a:link {
@@ -165,7 +165,7 @@ h1 {
   font-size: 22px;
   font-weight: 400;
   text-transform: uppercase;
-  color: rgba(0, 0, 0, 0.8);
+  color:white ;
   padding: 0;
   cursor: default;
 }
@@ -174,7 +174,7 @@ h1 {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 14px;
   text-transform: uppercase;
-  color: rgba(0, 0, 0, 0.3);
+  color: white;
   display: block;
   margin-top: 10px;
 }
